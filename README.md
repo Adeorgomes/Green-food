@@ -1,2 +1,2 @@
 # Green-food
-# A webaite landing page for veggies
+# A website landing page for veggies
